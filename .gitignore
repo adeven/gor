@@ -1,3 +1,7 @@
 *.swp
 
 *.gor
+
+bin/*.gor
+bin/*.lock
+bin/a.out

@@ -1,0 +1,11 @@
+{
+    "env" : [
+        {
+            "name" : "development",
+            "packages": [
+                { "name" : "github.com/buger/gor", "branch" : "master" },
+                { "name" : "github.com/mattbaird/elastigo", "branch" : "master" }
+            ]
+        }
+   ]
+}
